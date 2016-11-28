@@ -15,6 +15,9 @@ create an application that can run on Android devices.
 MIT runs a public instance that all are welcome to use to build App Inventor Applications. 
 You do not need to compile or use this code if you wish to build MIT App Inventor applications.
 
+App Inventor for Android lets people create apps for android phones by piecing together 
+programming blocks in a web browser
+
 ###Setup 
 ```
 You can set up App Inventor and start building apps in minutes. The Designer and Blocks Editor run completely in 
