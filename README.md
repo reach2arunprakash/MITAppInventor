@@ -1,7 +1,7 @@
 # MITAppInventor
 
 ###Setup 
-''''
+'''
 You can set up App Inventor and start building apps in minutes. The Designer and Blocks Editor run completely in the browser (aka the cloud). To see your app on a device while you build it (also called "Live Testing"), you'll need to follow the steps below.
 You have three options for setting up live testing while you build apps
 
@@ -10,7 +10,7 @@ If you are using an Android device and you have a wireless internet connection, 
 If you do not have an Android device, you'll need to install software on your computer so that you can use the on-screen Android emulator. Choose Option Two below.
 
 If you do not have a wireless internet connection, you'll need to install software on your computer so that you can connect to your Android device over USB. Choose Option Three below. The USB Connection option can be tricky, especially on Windows. Use this as a last resort.
-''''
+'''
 ###Design Window
 ###Block Window
 ###Deleting the Blocks
