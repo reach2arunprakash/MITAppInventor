@@ -1,3 +1,6 @@
+#Contributors
+ You are welcome to contribute you contents and apps to this repo.
+ 
 # MITAppInventor
 ###Introduction 
 
@@ -8,6 +11,9 @@ It allows newcomers to computer programming to create software applications for 
 Android operating system (OS). It uses a graphical interface, very similar to Scratch and 
 the StarLogo TNG user interface, which allows users to drag-and-drop visual objects to 
 create an application that can run on Android devices.
+
+MIT runs a public instance that all are welcome to use to build App Inventor Applications. 
+You do not need to compile or use this code if you wish to build MIT App Inventor applications.
 
 ###Setup 
 ```
