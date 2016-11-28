@@ -4,8 +4,20 @@
 # MITAppInventor
 ###Introduction 
 
+According to the latest IDC report, vendors shipped a total of 334.4 million smartphones 
+worldwide in the first quarter of 2015. Android dominated the market with a 78 per cent share
+during this period. Every single day, approximately 1.5 million new Android devices get activated.
+By June 2016, there were 90 billion cumulative app downloads from Google Play Store. 
+Estimates indicate that Google made app payouts to the tune of US$ 3 billion in 2014. 
+If you are not a core programmer but still want to develop Android applications or 
+just want to know how to develop Android apps, this content will help you
+
+
+###What is App Inventor?
+
 App Inventor for Android is an open-source web application originally provided by Google, and 
-now maintained by the Massachusetts Institute of Technology (MIT).
+now maintained by the Massachusetts Institute of Technology (MIT).App Inventor is the simplest 
+way to develop an application for an Android device.
 
 It allows newcomers to computer programming to create software applications for the 
 Android operating system (OS). It uses a graphical interface, very similar to Scratch and 
