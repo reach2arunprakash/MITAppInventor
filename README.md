@@ -50,6 +50,9 @@ to your Android device over USB. Choose Option Three below. The USB Connection o
 Use this as a last resort.
 ```
 ###Design Window
+
+Basically, in the Designer view you can select the GUI elements that should be visible on your screen. You can also determine the properties that could affect their display and their behaviour using the attributes available under Properties
+
 ###Block Window
 ###Deleting the Blocks
 ###Connecting with App inventor
